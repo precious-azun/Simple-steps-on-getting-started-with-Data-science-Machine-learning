@@ -10,16 +10,21 @@ Python - -Libraries - Machine learning course - Projects.
 ---
 
 Using the materials sequentially is a good way to get started;
-
+---
 P - Python: Python for everyone -- https://www.coursera.org/learn/python 
+---
 
-L - Libraries: Pandas, Numpy, Matplotlib
+L - Libraries:(Pandas, Numpy, Matplotlib)
+---
 Pandas - Datacamp course on Pandas --- https://www.datacamp.com/courses/data-manipulation-with-pandas
+---
 Numpy - Datacamp course on Numpy ---  https://www.datacamp.com/courses/introduction-to-numpy
+---
 Matplotlib - Datacamp course on Matplotlib -- https://www.datacamp.com/tutorial/matplotlib-tutorial-python
+---
 
 M - Machine learning course ----- https://coursera.org/learn/machine-learning-with-python
-
+---
 P - Projects Projects Projects --  https://medium.com/@preciousebiteazun/list/8a05f524ce46
-
+---
 Good luck, I'm rooting for you!
